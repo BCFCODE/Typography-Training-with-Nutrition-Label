@@ -12,6 +12,7 @@ body {
 
 .label {
   border: 2px solid black;
+  border-radius: 10px;
   width: 270px;
   margin: 20px auto;
   padding: 0 7px;
